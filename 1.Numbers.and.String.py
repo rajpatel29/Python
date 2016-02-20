@@ -27,13 +27,16 @@ user\document\newfolder
 19
 >>> firstname = "rutvik"
 >>> lastname = "patel"
->>> firs
-Traceback (most recent call last):
-  File "<pyshell#14>", line 1, in <module>
-    firs
-NameError: name 'firs' is not defined
+
 >>> firstname + " " + lastname
 'rutvik patel'
 >>> firstname * 5
 'rutvikrutvikrutvikrutvikrutvik'
->>> 
+>>>  x = 3
+
+
+
+
+
+
+

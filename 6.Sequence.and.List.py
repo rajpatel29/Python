@@ -5,12 +5,11 @@ Type "copyright", "credits" or "license()" for more information.
 Visit http://www.python.org/download/mac/tcltk/ for current information.
 
  
->>> x = 3
->>> x ** 2
-9
-
->>> g = input("Enter number here: ")
-Enter number here: 23
->>> int(g) + 2
-25
-
+>>> rutvik = ["dappo" , "valyo" , "tanuj" , "kevin" , "khot"]
+>>> rutvik[3]
+'kevin'
+>>> rutvik[-2]
+'kevin'
+>>> "rutvik"[3]
+'v'
+>>> 

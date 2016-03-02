@@ -18,4 +18,5 @@ SyntaxError: invalid syntax
 
 >>> print(addTen(20))
 30
->>> 
+>>> 2 + 7
+
